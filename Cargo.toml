@@ -1,0 +1,6 @@
+[package]
+name = "lore-core"
+version = "2026.04.07.1"
+edition = "2024"
+description = "The framework for Lore lifetime"
+
